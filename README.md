@@ -1,2 +1,1 @@
-# censorify
-node censorify
+read me....
